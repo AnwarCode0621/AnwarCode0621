@@ -2,6 +2,6 @@
 
 -Unity Developer!
 
--C# Programmer!
+-Javascript/CSS/HTML Programmer!
 
 -Games And Realeses Coming Soon!
