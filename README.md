@@ -1,7 +1,7 @@
--Hi Im Anwar.Code
+-Hi Im Anwar.Code ✋
 
--Unity Developer!
+-Unity Developer! 🖥️
 
--Javascript/CSS/HTML Programmer!
+-C# Programmer 💻
 
--Games And Realeses Coming Soon!
+-Game Dev 🎮
